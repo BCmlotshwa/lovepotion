@@ -108,12 +108,3 @@ def vt():
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 10000))
     app.run(host='0.0.0.0', port=port)
-    """
-
-**HOW TO ADD YOUR PHOTO (when you find it):**
-
-1. On GitHub, click **Add file -> Upload files**
-2. Upload your couple photo, name it `us.jpg`
-3. Tell me - I will make it show on site!
-
-Deploy V3 now and send me the live link!
